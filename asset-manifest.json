@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/static/css/main.bfc1bd4c.css",
+    "main.js": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/static/js/main.0c449c9b.js",
     "index.html": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.bfc1bd4c.css.map": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/static/css/main.bfc1bd4c.css.map",
+    "main.0c449c9b.js.map": "/katarzynachodyniecka.github.io/goit-react-hw-01-components/static/js/main.0c449c9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.bfc1bd4c.css",
+    "static/js/main.0c449c9b.js"
   ]
 }
