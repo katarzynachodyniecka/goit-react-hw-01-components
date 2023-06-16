@@ -1,0 +1,26 @@
+.stats {
+  display: flex;
+  background-color: #f3f6f9;
+}
+
+.stat {
+  padding-block: 20px;
+  width: calc(100% / 3);
+  border: 0.5px solid #b0b8c130;
+}
+
+.label,
+.quantity {
+  display: block;
+}
+
+.label {
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #b0b8c1;
+}
+
+.quantity {
+  font-size: 18px;
+  font-weight: bold;
+}
