@@ -1,0 +1,21 @@
+.transaction-history {
+  margin: 40px auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.tops {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+  background-color: #31a2c4;
+  border: #31a2c4;
+  color: white;
+}
+
+.top {
+  padding: 20px;
+}
